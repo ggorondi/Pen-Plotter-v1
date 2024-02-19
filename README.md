@@ -6,6 +6,8 @@ This project is a homemade pen plotter designed and built from scratch. It utili
 
 ![Pen Plotter](images/side_by_side.jpg){:width="300px"}
 
+<img src="images/pen_plotter.jpg" alt="Pen Plotter" width="300px">
+
 ## Features
 - **JavaScript Code**: The project includes a JavaScript file that utilizes the canvas-sketch module to provide a preview of the drawings in a browser environment.
 - **Arduino Code**: Written in C/C++, the Arduino code controls the movement of the stepper motors and coordinates the drawing process.
