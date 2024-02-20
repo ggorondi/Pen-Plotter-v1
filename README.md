@@ -2,7 +2,7 @@
 
 ![Pen Plotter](images/example_drawings.jpg)
 
-This project is a homemade pen plotter designed and built from scratch. It utilizes an Arduino Nano microcontroller connected to two A4988 stepper motor drivers, which control NEMA 17 stepper motors. The motors are mounted on a wall and pull two toothed belts, each connected to the pen at the other end. By employing a mix of trigonometric functions, the plotter is capable of creating intricate patterns and artistic drawings.
+This project is a homemade pen plotter designed and built from scratch by me. It utilizes an Arduino Nano microcontroller connected to two A4988 stepper motor drivers, which control NEMA 17 stepper motors. The motors are mounted on a wall and pull two toothed belts, each connected to a pen between them. By employing a mix of trigonometric functions and an iterative algorithm, the plotter is capable of creating intricate patterns and artistic drawings.
 
 
 ## Features
