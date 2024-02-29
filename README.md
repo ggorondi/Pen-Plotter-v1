@@ -24,9 +24,3 @@ This project is a homemade pen plotter designed and built from scratch by me. It
 
 ## Credits
 This project was created by Gabor Gorondi.
-
-
-
-
-https://github.com/ggorondi/Pen-Plotter-v1/assets/113739099/bec033f9-d215-4d95-822d-b8e6e8570f54
-
