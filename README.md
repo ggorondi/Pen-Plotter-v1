@@ -13,7 +13,7 @@ This project is a homemade pen plotter designed and built from scratch by me. It
 
 ## Usage
 1. Install canvas-sketch with npm/npx. Run the JavaScript file "npx canvas-sketch-cli sketch02.js" in a browser to previsualize the drawings.
-2. Upload the Arduino code to the Arduino Nano and copy the formula_x() and formula_y() functions to get the same results with the pen plotter.
+2. Upload the Arduino code to the Arduino Nano and copy the formula_x() and formula_y() functions to get the same results with the pen plotter. Will soon post schematic.
 3. Experiment with the trigonometric functions to create various patterns.
 
 ![Pen Plotter](images/pen_plotter.jpg)
